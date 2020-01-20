@@ -1,7 +1,3 @@
-Synopsis
-This Project contain API for Online-Old-Books-Reselling.
-LIVE DEMO @ https://shopper-cart.herokuapp.com/
-Installation -
 run - "node app" and open localhost:3333
 API Reference (POSTMAN JSON API's)
 
@@ -52,6 +48,3 @@ All CRUD Operation on following routes -
 
 /message/:id
 
-
-License -
-License to Akash Singh
